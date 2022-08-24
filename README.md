@@ -3,9 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft)
 ##  ⚡  t e c h   ⚡
-[![C](https://img.shields.io/badge/C++-F7DF1E?style=flat-square&logo=&logoColor=black)](https://github.com/MinWook6457/MinWook6457/edit/main/README.md) [![JAVA](https://img.shields.io/badge/JAVA-square&logo=&logoColor=black)](https://github.com/MinWook6457/MinWook6457/edit/main/README.md)
-
-<img src="https://img.shields.io/badge/instargram-FFCA28?style=flat-square&logo=file:///C:/Users/kih25/Downloads/instagram.svg&logoColor=E4405F"/>
+[![C](https://img.shields.io/badge/C++-F7DF1E?style=flat-square&logo=&logoColor=black)](https://github.com/MinWook6457/MinWook6457/edit/main/README.md)
 
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/MinWook6457/) 
 
