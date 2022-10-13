@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=MinWook&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=&color=auto&height=300&section=header&text=MinWook&fontSize=90)
 
 ![header](https://capsule-render.vercel.app/api?type=soft)
 ##  ⚡  t e c h   ⚡
