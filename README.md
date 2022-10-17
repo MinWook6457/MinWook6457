@@ -11,3 +11,6 @@
 ##  📫 about me  📫 
  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.minuk6457@gmail.com)
  
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MinWook6457=anuraghazra&show_icons=true)
+ 
