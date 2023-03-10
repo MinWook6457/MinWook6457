@@ -17,3 +17,6 @@
  ## MinWook's Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinWook6457&show_icons=true&theme=onedark)
 
+## Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinWook6457&layout=compact&theme=tokyonight)
+
