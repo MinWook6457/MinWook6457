@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=MinWook😄&fontSize=70)
 ##  ⚡  t e c h   ⚡
-[![C](https://img.shields.io/badge/C++-F7DF1E?style=flat-square&logo=&logoColor=black)](https://github.com/MinWook6457/MinWook6457/edit/main/README.md) [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/MinWook6457/) [![C](https://img.shields.io/badge/C-1572B6?style=flat-square&logo=C3&logoColor=white)](https://github.com/MinWook6457) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/MinWook6457) [![PYTHON](https://img.shields.io/badge/Python-4479A1?style=flat-square&logo=#3776AB&logoColor=white)](https://github.com/MinWook6457)
+[![C](https://img.shields.io/badge/C++-F7DF1E?style=flat-square&logo=&logoColor=black)](https://github.com/MinWook6457/MinWook6457/edit/main/README.md) [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/MinWook6457/) [![C](https://img.shields.io/badge/C-1572B6?style=flat-square&logo=C3&logoColor=white)](https://github.com/MinWook6457) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/MinWook6457) [![PYTHON](https://img.shields.io/badge/Python-330000?style=flat-square&logo=#3776AB&logoColor=white)](https://github.com/MinWook6457)
 
 
 ## ✨ d e v e l o p  t o o l ✨
