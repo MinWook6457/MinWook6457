@@ -20,3 +20,6 @@
 ## Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinWook6457&layout=compact&theme=tokyonight)
 
+## Rank
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{https://github.com/MinWook6457})
