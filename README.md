@@ -10,7 +10,7 @@
 
  
 ##  📫 about me  📫 
- <a href = (https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.minuk6457@gmail.com) > </a>
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.minuk6457@gmail.com)
 <a href = "https://www.instagram.com/min._.uuk_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/min._.uuk_"/></a>
 
  
