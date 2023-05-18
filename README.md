@@ -11,6 +11,7 @@
  
 ##  📫 about me  📫 
  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.minuk6457@gmail.com)
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagramt&logoColor=white">(https://www.instagram.com/min._.uuk_)
 
  
  ## MinWook's Stats
