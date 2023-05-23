@@ -1,9 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=MinWook😄&fontSize=70)
 
+<div align="center"> 
  
-## ⚡  t e c h   ⚡
+⚡  Tech Stack   ⚡
+ 
+</div>
 <div align="center">
+ 
 [![C](https://img.shields.io/badge/C++-F7DF1E?style=flat-square&logo=&logoColor=black)](https://github.com/MinWook6457/MinWook6457/edit/main/README.md) [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/MinWook6457/) [![C](https://img.shields.io/badge/C-1572B6?style=flat-square&logo=C3&logoColor=white)](https://github.com/MinWook6457) [![MySql](https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=&logoColor=white)](https://github.com/MinWook6457)
+ 
 </div>
 
 ## ✨ d e v e l o p  t o o l ✨
