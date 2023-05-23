@@ -11,8 +11,11 @@
  
 </div>
 <div align="center">
- 
-[![C](https://img.shields.io/badge/C++-F7DF1E?style=flat-square&logo=&logoColor=black)](https://github.com/MinWook6457/MinWook6457/edit/main/README.md) [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/MinWook6457/) [![C](https://img.shields.io/badge/C-1572B6?style=flat-square&logo=C3&logoColor=white)](https://github.com/MinWook6457) [![MySql](https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=&logoColor=white)](https://github.com/MinWook6457)
+	
+	<img src="https://img.shields.io/badge/C-1572B6?style=flat&logo=C&logoColor=white" />
+	<img src="https://img.shields.io/badge/C++-F7DF1E?style=flat&logo=C++&logoColor=white" />
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=JAVA&logoColor=white" />
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
  
 </div>
 
