@@ -4,7 +4,10 @@
 
 <div align="center"> 
  
-⚡  Tech Stack   ⚡
+<div align=center>
+	<h3>📚 Tech Stack 📚</h3>
+	<p>✨ Platforms & Languages ✨</p>
+</div>
  
 </div>
 <div align="center">
@@ -13,28 +16,30 @@
  
 </div>
 
-<div align="center"> 
- 
-✨ Tools ✨
- 
+<div align=center>
+	<p>🛠 Tools 🛠</p>
 </div>
-<div align="center"> 
- 
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio%20&logoColor=white)
 
+<div align="center"> 
+	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual%20Studio%20-5C2D91?style=flat&logo=VisualStudio&logoColor=white" />
 </div>
  
-##  📫 about me  📫 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.minuk6457@gmail.com)
+<div align=center>
+	<p>🎨 SNS & Portfolio 🎨</p>
+</div>
+<div align=center>
+<a href="mailto:admin@alsdnr6457.gmail.com"><img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" /></a>
 <a href = "https://www.instagram.com/min._.uuk_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/min._.uuk_"/></a>
 
- 
+</div>
+
  ## MinWook's Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinWook6457&show_icons=true&theme=onedark)
 
 ## Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinWook6457&layout=compact&theme=dracula)
 
-## BOJ
+<p>🏆 Baekjoon solved rank 🏆</p>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=alsdnr6457)](https://solved.ac/alsdnr6457)<br/>
