@@ -18,9 +18,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinWook6457&show_icons=true&theme=onedark)
 
 ## Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsdnr6457&langs_count=10&layout=compact&theme=tokyonight)]
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinWook6457&layout=compact&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsdnr6457&layout=compact&theme=dracula)
 
 ## BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=alsdnr6457)](https://solved.ac/alsdnr6457)<br/>
