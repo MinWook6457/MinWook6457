@@ -18,24 +18,23 @@
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 </div>
 
+
 <div align=center>
 	<p>🛠 Tools 🛠</p>
 </div>
-
 <div align="center"> 
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20-5C2D91?style=flat&logo=VisualStudio&logoColor=white" />
 </div>
  
+ 
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
-<div align=center>
-	
+<div align=center>	
 <a href="mailto:admin@alsdnr6457.gmail.com"><img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" /></a>
 <a href="https://www.instagram.com/min._.uuk_"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/min._.uuk_"/></a>
-
 </div>
 
 <div align=center>
