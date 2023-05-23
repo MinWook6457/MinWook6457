@@ -28,11 +28,11 @@
 	<img src="https://img.shields.io/badge/Visual%20Studio%20-5C2D91?style=flat&logo=VisualStudio&logoColor=white" />
 </div>
  
- <div align=center>
+<div align=center>
 	<p>🖋️ Recording 🖋️</p>
 </div>
 
-</div>
+<div align=center>
 <a href="https://minwook6457.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" /></a>
 </div>
  
