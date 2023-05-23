@@ -28,6 +28,13 @@
 	<img src="https://img.shields.io/badge/Visual%20Studio%20-5C2D91?style=flat&logo=VisualStudio&logoColor=white" />
 </div>
  
+ <div align=center>
+	<p>🖋️ Recording 🖋️</p>
+</div>
+
+</div>
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://minwook6457.tistory.com/)
+</div>
  
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
