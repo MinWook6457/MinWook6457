@@ -33,7 +33,7 @@
 </div>
 
 </div>
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://minwook6457.tistory.com/)
+<a href="https://minwook6457.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" /></a>
 </div>
  
 <div align=center>
