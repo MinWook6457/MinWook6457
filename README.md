@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=MinWook!&fontSize=70)
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MinWook%20Github!&fontSize=90" />	
+</div>
 
 <div align="center"> 
  
