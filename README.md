@@ -30,16 +30,20 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
+	
 <a href="mailto:admin@alsdnr6457.gmail.com"><img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" /></a>
 <a href = "https://www.instagram.com/min._.uuk_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/min._.uuk_"/></a>
 
 </div>
 
- ## MinWook's Stats
+<div align=center>
+	<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinWook6457&show_icons=true&theme=onedark)
 
-## Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinWook6457&layout=compact&theme=dracula)
 
 <p>🏆 Baekjoon solved rank 🏆</p>
+	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=alsdnr6457)](https://solved.ac/alsdnr6457)<br/>
+	
+</div>
