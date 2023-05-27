@@ -52,6 +52,8 @@
 
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
+[![alsdnr6457's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=alsdnr6457)](https://www.acmicpc.net/user/alsdnr6457)
+	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=alsdnr6457)](https://solved.ac/alsdnr6457)<br/>
 	
 </div>
