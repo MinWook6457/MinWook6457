@@ -1,10 +1,4 @@
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradiant&height=300&section=header&text=MinWook's%20Github!&fontSize=90" />	
-</div>
-
-<div align="center"> 
- 
-<div align=center>
+ <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
