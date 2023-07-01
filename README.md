@@ -1,6 +1,6 @@
  <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
+	<p>✨ I can use this . . .  ✨</p>
 </div>
  
 </div>
@@ -9,9 +9,16 @@
 	<img src="https://img.shields.io/badge/C++-F7DF1E?style=flat&logo=C++&logoColor=white" />
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=JAVA&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+</div>
+
+ <div align=center>
+	<h3>📚 Studying . . . 📚</h3>
+</div>
+
+<div align = "center">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/NodeJS-339933?style=flat&logo=NodeJS&logoColor=white" />	
-</div>
+<div/>
 
 
 <div align=center>
