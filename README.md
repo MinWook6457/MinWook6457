@@ -1,6 +1,5 @@
  <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ I can use this . . .  ✨</p>
 </div>
  
 </div>
