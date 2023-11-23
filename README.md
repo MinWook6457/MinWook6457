@@ -34,6 +34,7 @@
 
 <div align=center>
 <a href="https://minwook6457.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" /></a>
+<a href="https://velog.io/@alsdnr6457/"><img src="https://img.shields.io/badge/Velog-000000?style=flat&logo=Velog&logoColor=white" /></a>
 </div>
  
 <div align=center>
