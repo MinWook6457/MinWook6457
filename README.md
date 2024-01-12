@@ -43,7 +43,7 @@
 </div>
 <div align=center>	
 <a href="mailto:admin@alsdnr6457.gmail.com"><img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" /></a>
-<a href="https://www.instagram.com/min._.uuk_"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/min._.uuk_"/></a>
+<a href="https://www.instagram.com/min._.uuk_"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/min._.uuk_"/></a>
 </div>
 
 <div align=center>
