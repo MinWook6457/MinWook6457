@@ -46,10 +46,6 @@
 <a href="https://www.instagram.com/min._.uuk_"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/min._.uuk_"/></a>
 </div>
 
-<div>
-	[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=li-yo&theme=default)](https://minwook6457.tistory.com/)
-</div>
-
 <div align=center>
 	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinWook6457&show_icons=true&theme=onedark)
