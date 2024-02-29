@@ -8,7 +8,7 @@
 	 
 [![alsdnr6457's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=alsdnr6457)](https://www.acmicpc.net/user/alsdnr6457)	
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MinWook6457&theme=dracula&border_radius=4.9&locale=ko&card_width=500)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MinWook6457&theme=dracula&border_radius=4.9&locale=ko&date_format=%5BY.%5Dn.j&card_width=500" alt="GitHub Streak" /></a>
 
 
 
