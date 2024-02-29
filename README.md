@@ -2,7 +2,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MinWook6457&theme=flat&column=7)](https://github.com/MinWook6457/)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 
