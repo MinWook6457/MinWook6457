@@ -295,8 +295,8 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I am a senior in the Department of Computer Software Engineering</text>
-    <text x="15" y="50">at Soonchunhyang University.</text>
+    <text x="15" y="27">I am a senior in the Department of Computer</text>
+    <text x="15" y="50">Software Engineering at Soonchunhyang University.</text>
   </g>
 
   <!-- typing 3 -->
@@ -348,6 +348,7 @@
     <text x="15" y="27">community lead for official TensorFlow Korea</text>
   </g>
 
+
   <!-- typing 5 -->
   <g transform="translate(10, 240)" class="typing-5">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
@@ -368,7 +369,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="325" height="42.1302" rx="18.0355" class="bubble" />
+    <rect width="400" height="42.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I want to be a Web Full Stack Developer</text>    
   </g>
 
@@ -393,7 +394,8 @@
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
     <rect width="365" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I worked as a Back End developer at the startup company Univting for 6 months.</text>
+    <text x="15" y="27">I worked as a Back End developer </text>
+    <text x="15" y="50">at the startup company Univting for 6 months.</text>
   </g>
   
 
@@ -416,7 +418,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 336)" class="msg-7">
-    <rect width="445" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> This is my recording <a xlink:href="https://minwook6457.tistory.com/">https://minwook6457.tistory.com/</a> </text>
+    <rect width="480" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27"> This is my recording <a xlink:href="https://minwook6457.tistory.com/">Link</a> </text>
   </g>
 </svg>
