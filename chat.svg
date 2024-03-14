@@ -294,7 +294,7 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="500" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="560" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">저는 순천향대학교 컴퓨터소프트웨어공학과 19학번 김민욱입니다.</text>
   </g>
 
@@ -343,7 +343,7 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="400" height="42" rx="18.0355" class="bubble" />
+    <rect width="560" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">(주)인실리코젠에서의 약 2달간의 인턴 경험이 있습니다.</text>
   </g>
 
@@ -368,9 +368,8 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="400" height="42.1302" rx="18.0355" class="bubble" />
+    <rect width="560" height="42.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">또한 유니브팅에서 약 6개월간 백엔드개발자로 함께 했습니다.</text>   
-    <text x="15" y="50">유니브팅 : <a xlink:href="">https://litt.ly/univting</a></text> 
   </g>
 
   <!-- typing 6 -->
@@ -394,7 +393,7 @@
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
     <rect width="400" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Back End developer in Univting for 6 months</text>
+    <text x="15" y="27">유니브팅 : <a xlink:href="">https://litt.ly/univting</text>
   </g>
   
 
@@ -418,6 +417,6 @@
   <!-- Have a great... -->
   <g transform="translate(10, 336)" class="msg-7">
     <rect width="460" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> This is my recording <a xlink:href="">https://minwook6457.tistory.com</a> </text>
+    <text x="15" y="27">저의 기록 일지 입니다!<a xlink:href="">https://minwook6457.tistory.com</a> </text>
   </g>
 </svg>
