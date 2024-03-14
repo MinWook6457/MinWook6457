@@ -294,7 +294,7 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="560" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="500" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">풀스택 개발자 김민욱입니다!</text>
   </g>
 
@@ -343,7 +343,7 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="560" height="42" rx="18.0355" class="bubble" />
+    <rect width="500" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">(주)인실리코젠에서의 약 2달간의 인턴 경험이 있습니다.</text>
   </g>
 
@@ -368,7 +368,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="560" height="42.1302" rx="18.0355" class="bubble" />
+    <rect width="500" height="42.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">유니브팅에서 약 6개월간 백엔드개발자로 함께 했습니다.</text>   
   </g>
 
