@@ -3,18 +3,10 @@
 <div style="display: flex;">
     <div style="display: flex; align-items: flex-start; margin-right: 10px;">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="42" height="42" />
-    </div>
-    <div style="display: flex; align-items: flex-start; margin-right: 10px;">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="42" height="42" />
-    </div>
-    <div style="display: flex; align-items: flex-start; margin-right: 10px;">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="42" height="42" />
-    </div>
-    <div style="display: flex; align-items: flex-start; margin-right: 10px;">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="42" height="42" />
     </div>
 </div>
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinWook6457&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
