@@ -271,7 +271,7 @@
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="170" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm MinWook</text>
+    <text x="15" y="27">안녕하세요. 웹 풀스택 개발자 김민욱 입니다.</text>
   </g>
 
   <!-- typing 2 -->
@@ -295,8 +295,8 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Web FullStack Developer</text>
-    <text x="15" y="50">Using Spring Boot and ExpressJS</text>
+    <text x="15" y="27">사용 기술은 다음과 같습니다.</text>
+    <text x="15" y="50">ExpressJS , Spring , React , jQuery </text>
   </g>
 
   <!-- typing 3 -->
@@ -320,8 +320,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="425" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">BackEnd Developer in Univting for 6 months</text>    
-    <text x="15" y="50">Univing : <a xlink:href="https://litt.ly/univting">Link</a> </text>
+    <text x="15" y="27">유니브팅에서 약 6개월간 백엔드 개발자로 활동했습니다.</text>    
+    <text x="15" y="50">유니브팅은 대학생 전용 미팅 플랫폼 입니다.</text>
   </g>
 
   <!-- typing 4 -->
