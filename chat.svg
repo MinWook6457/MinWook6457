@@ -319,7 +319,7 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="450" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="470" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">유니브팅에서 약 6개월간 백엔드 개발자로 활동했습니다.</text>    
     <text x="15" y="50">유니브팅은 대학생 전용 미팅 플랫폼 입니다.</text>
   </g>
@@ -344,7 +344,7 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="400" height="42" rx="18.0355" class="bubble" />
+    <rect width="470" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">기록을 습관화하며 블로그 및 노션을 운영 중입니다.</text>
   </g>
 
@@ -367,10 +367,10 @@
   </g>
 
   <!-- Thanks -->
-<!--   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="325" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I'm senior SCH Univ in CSE</text>    
-  </g> -->
+  <g transform="translate(10, 240)" class="msg-5">
+    <rect width="420" height="42.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">현재는 (주)인실리코젠에 재직 중입니다. </text>    
+  </g>
 
   <!-- typing 6 -->
   <g transform="translate(10, 288)" class="typing-6">
@@ -417,6 +417,6 @@
   <!-- Have a great... -->
   <g transform="translate(10, 336)" class="msg-7">
     <rect width="445" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> This is my recording <a xlink:href="https://minwook6457.tistory.com/">기록하는습관</a> </text>
+    <text x="15" y="27"> 잘 부탁 드립니다! </text>
   </g>
 </svg>
