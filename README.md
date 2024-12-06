@@ -17,6 +17,11 @@
       "library" : [ "react" , "jQuery" ]
     }
   },
+  "devOps" : {
+    "AWS" : ["EC2" , "S3"],
+    "GIT" : ["HUB" , "LAB"],
+    "VERCEL"
+  }
   "learning": ["Spring-Boot", "NextJS"]
 }
 ```
