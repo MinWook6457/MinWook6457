@@ -16,7 +16,7 @@
     "front" : {
       "library" : ["react","jQuery"]
     },
-    "ide: ["vscode", "intelliJ","eclipse"]
+    "ide" : ["vscode", "intelliJ", "eclipse" ]
   },
   "devOps" : {
     "AWS" : ["EC2" , "S3"],
