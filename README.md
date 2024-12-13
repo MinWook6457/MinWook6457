@@ -8,7 +8,7 @@
   "company" : "Insilicogen",
   "stack" : {
     "back" : {
-      "framework" : ["Spring" , "ExpressJS" , "Electron"],
+      "framework" : ["Spring" , "ExpressJS" , "Electron" , "DHTMLX"],
       "language" : ["C" , "Java" , "JavaScript"],
       "sql" : ["mysql" , "postgresql"],
       "ORM" : ["mybatis" , "JPA" , "Sequelize"]
