@@ -23,7 +23,7 @@
     "GIT" : ["HUB" , "LAB"],
     "VERCEL"
   }
-  "learning": ["Spring-Boot", "NextJS"]
+  "learning": ["Spring-Boot", "NextJS", "Flutter"]
 }
 ```
 
