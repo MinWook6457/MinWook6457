@@ -26,8 +26,8 @@
   "learning": ["Spring-Boot", "NextJS", "Flutter"]
 }
 ```
+<img src="https://github.com/user-attachments/assets/d03c8085-6067-4221-a81e-3abbe2c072f7" width="200" height="400"/>
 
-![잔디 기부 캠페인 기부증](https://github.com/user-attachments/assets/677c883d-961d-4728-8c94-58ecf285763c)
 <!--
 [message_svg](https://github.com/MinWook6457/MinWook6457/blob/master/chat.svg)
 -->
